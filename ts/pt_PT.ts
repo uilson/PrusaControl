@@ -112,7 +112,7 @@
     <message>
         <location filename="controller.py" line="626"/>
         <source>Solid - </source>
-        <translation>Solido - </translation>
+        <translation>Sólido - </translation>
     </message>
 </context>
 <context>
@@ -138,12 +138,12 @@
     <message>
         <location filename="sceneRender.py" line="284"/>
         <source>Place on face tool</source>
-        <translation>Ferramenta de Place on face tool</translation>
+        <translation>Ferramenta de colocar na face</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="291"/>
         <source>Rotate tool</source>
-        <translation>Rotate tool</translation>
+        <translation>Ferramenta de rodar</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="297"/>
