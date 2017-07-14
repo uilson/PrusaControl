@@ -19,7 +19,7 @@
     <message>
         <location filename="sceneData.py" line="312"/>
         <source>â¢ Object %s... is out of printable area!</source>
-        <translation type="obsolete">â¢ Object %s... is out of printable area!</translation>
+        <translation type="obsolete">â¢ Objeto %s... está fora da area!</translation>
     </message>
 </context>
 <context>
@@ -27,92 +27,92 @@
     <message>
         <location filename="controller.py" line="1832"/>
         <source>Generating perimeters</source>
-        <translation>Generating perimeters</translation>
+        <translation>A gerar perímetros</translation>
     </message>
     <message>
         <location filename="controller.py" line="1833"/>
         <source>Processing triangulated mesh</source>
-        <translation>Processing triangulated mesh</translation>
+        <translation>A processar a malha triangulada</translation>
     </message>
     <message>
         <location filename="controller.py" line="1834"/>
         <source>Infilling layers</source>
-        <translation>Infilling layers</translation>
+        <translation>A encher as camadas</translation>
     </message>
     <message>
         <location filename="controller.py" line="1835"/>
         <source>Preparing infill</source>
-        <translation>Preparing infill</translation>
+        <translation>A preparar o infill</translation>
     </message>
     <message>
         <location filename="controller.py" line="1836"/>
         <source>Generating skirt</source>
-        <translation>Generating skirt</translation>
+        <translation>A gerar a skirt</translation>
     </message>
     <message>
         <location filename="controller.py" line="1837"/>
         <source>Exporting G-code to</source>
-        <translation>Exporting GCode to</translation>
+        <translation>Exportar GCode para</translation>
     </message>
     <message>
         <location filename="controller.py" line="1838"/>
         <source>Done. Process took</source>
-        <translation>Done. Process took</translation>
+        <translation>Concluído. Processo demorou</translation>
     </message>
     <message>
         <location filename="controller.py" line="241"/>
         <source>Object </source>
-        <translation>Object</translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <location filename="controller.py" line="242"/>
         <source> is out of printable area!</source>
-        <translation> is out of printable area!</translation>
+        <translation> está fora da area de impressão!</translation>
     </message>
     <message>
         <location filename="controller.py" line="243"/>
         <source>Scene is hard to print without support.</source>
-        <translation>Scene is hard to print without supports.</translation>
+        <translation>Scene é difícil de imprimir sem suportes.</translation>
     </message>
     <message>
         <location filename="controller.py" line="244"/>
         <source>For better adhesion turn Brim parametr on.</source>
-        <translation>For better adhesion turn brim parametr on.</translation>
+        <translation>Para melhor adesão ative o parametro brim.</translation>
     </message>
     <message>
         <location filename="controller.py" line="620"/>
         <source>Hollow/Shell - </source>
-        <translation>Hollow/Shell - </translation>
+        <translation>Oco/Concha - </translation>
     </message>
     <message>
         <location filename="controller.py" line="621"/>
         <source>Sparse - </source>
-        <translation>Sparse - </translation>
+        <translation>Escasso - </translation>
     </message>
     <message>
         <location filename="controller.py" line="622"/>
         <source>Light - </source>
-        <translation>Light - </translation>
+        <translation>Ligeiro - </translation>
     </message>
     <message>
         <location filename="controller.py" line="623"/>
         <source>Standard - </source>
-        <translation>Standard - </translation>
+        <translation>Padrão - </translation>
     </message>
     <message>
         <location filename="controller.py" line="624"/>
         <source>Dense - </source>
-        <translation>Dense - </translation>
+        <translation>Denso - </translation>
     </message>
     <message>
         <location filename="controller.py" line="625"/>
         <source>Denser - </source>
-        <translation>Denser - </translation>
+        <translation>Espesso - </translation>
     </message>
     <message>
         <location filename="controller.py" line="626"/>
         <source>Solid - </source>
-        <translation>Solid - </translation>
+        <translation>Solido - </translation>
     </message>
 </context>
 <context>
@@ -120,12 +120,12 @@
     <message>
         <location filename="gui.py" line="597"/>
         <source>Open file</source>
-        <translation>Open file</translation>
+        <translation>Abrir ficheiro</translation>
     </message>
     <message>
         <location filename="gui.py" line="599"/>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation>Atualizar</translation>
     </message>
 </context>
 <context>
@@ -133,12 +133,12 @@
     <message>
         <location filename="sceneRender.py" line="276"/>
         <source>Scale tool</source>
-        <translation>Scale tool</translation>
+        <translation>Ferramenta de escala</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="284"/>
         <source>Place on face tool</source>
-        <translation>Place on face tool</translation>
+        <translation>Ferramenta de Place on face tool</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="291"/>
@@ -153,37 +153,37 @@
     <message>
         <location filename="sceneRender.py" line="303"/>
         <source>Multiplication tool</source>
-        <translation>Multiplication tool</translation>
+        <translation>Ferramenta de multiplicação</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="320"/>
         <source>Undo</source>
-        <translation>Undo</translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="312"/>
         <source>Do</source>
-        <translation type="obsolete">Do</translation>
+        <translation type="obsolete">Fazer</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="677"/>
         <source>time:</source>
-        <translation type="obsolete">time:</translation>
+        <translation type="obsolete">tempo:</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="804"/>
         <source>filament:</source>
-        <translation>filament:</translation>
+        <translation>filamento:</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="310"/>
         <source>Support tool</source>
-        <translation>Support tool</translation>
+        <translation>Ferramenta de suporte</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="326"/>
         <source>Redo</source>
-        <translation>Redo</translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="803"/>
